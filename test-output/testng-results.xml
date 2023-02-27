@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-02-13T18:15:24 IST" name="Default suite" finished-at="2023-02-13T18:15:26 IST" duration-ms="1883">
+    <groups>
+    </groups>
+    <test started-at="2023-02-13T18:15:24 IST" name="Default test" finished-at="2023-02-13T18:15:26 IST" duration-ms="1883">
+      <class name="ReqRes_Test.GetAllResources">
+        <test-method is-config="true" signature="request()[pri:0, instance:ReqRes_Test.GetAllResources@6340e5f0]" started-at="2023-02-13T18:15:24 IST" name="request" finished-at="2023-02-13T18:15:24 IST" duration-ms="401" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- request -->
+        <test-method signature="resources()[pri:0, instance:ReqRes_Test.GetAllResources@6340e5f0]" started-at="2023-02-13T18:15:24 IST" name="resources" finished-at="2023-02-13T18:15:26 IST" duration-ms="1451" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- resources -->
+      </class> <!-- ReqRes_Test.GetAllResources -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

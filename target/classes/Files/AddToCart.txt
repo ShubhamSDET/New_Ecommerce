@@ -1,0 +1,18 @@
+{
+    "_id": "63b2c23903841e9c9a67738f",
+    "product": {
+        "_id": "63bd49f4568c3e9fb1f2db10",
+        "productName": "Apple_Laptop",
+        "productCategory": "Electronics",
+        "productSubCategory": "Laptops",
+        "productPrice": 115000,
+        "productDescription": "Apple_laptop",
+        "productImage": "https://rahulshettyacademy.com/api/ecom/uploads/productImage_1673349620645.png",
+        "productRating": "0",
+        "productTotalOrders": "0",
+        "productStatus": true,
+        "productFor": "men",
+        "productAddedBy": "63b2c23903841e9c9a67738f",
+        "__v": 0
+    }
+}
